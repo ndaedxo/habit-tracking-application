@@ -37,12 +37,12 @@ HabitForge is a modern, user-friendly habit tracking application built with Reac
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/appwhisperer.git
+git clone https://github.com/ndaedxo/habit-tracking-application.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd appwhisperer
+cd HabitForge
 ```
 
 3. Install dependencies:
