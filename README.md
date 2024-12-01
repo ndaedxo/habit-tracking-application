@@ -1,6 +1,6 @@
-# AppWhisperer - Habit Tracking App
+# HabitForge - Habit Tracking App
 
-AppWhisperer is a modern, user-friendly habit tracking application built with React, TypeScript, and Tailwind CSS. It helps users build and maintain positive habits through an engaging and intuitive interface.
+HabitForge is a modern, user-friendly habit tracking application built with React, TypeScript, and Tailwind CSS. It helps users build and maintain positive habits through an engaging and intuitive interface.
 
 ## 🌟 Features
 
